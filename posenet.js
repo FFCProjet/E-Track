@@ -3,7 +3,20 @@ let poseNet;
 let poses = [];
 let xpose;
 let ypose;
-
+const options = {
+    architecture: 'MobileNetV1',
+    imageScaleFactor: 0.3,
+    outputStride: 16,
+    flipHorizontal: false,
+    minConfidence: 0.5,
+    maxPoseDetections: 5,
+    scoreThreshold: 0.5,
+    nmsRadius: 20,
+    detectionType: 'single',
+    inputResolution: 513,
+    multiplier: 0.75,
+    quantBytes: 2,
+   };
 function setup(){
     const canvas = createCanvas(640,480);
     canvas.parent('videoContainer');
@@ -12,7 +25,7 @@ function setup(){
     video.size(width, height);
     // document.body.style.zoom=2.0;this.blur();    
     // ctx.drawImage(video, 33, 71);
-    poseNet = ml5.poseNet(video, modelReady);
+    poseNet = ml5.poseNet(video, modelReady,options);
 
     poseNet.on('pose', function(results){
         poses= results;
@@ -33,7 +46,7 @@ function setup(){
         // scale(xpose/2,ypose/2);
         // drawSkeleton();
     }
-
+   
     function modelReady(){
         select('#status').html('model Loaded')
     }
