@@ -3,6 +3,8 @@ let poseNet;
 let poses = [];
 let xpose;
 let ypose;
+
+
 const options = {
     architecture: 'MobileNetV1',
     imageScaleFactor: 0.3,
@@ -17,6 +19,7 @@ const options = {
     multiplier: 0.75,
     quantBytes: 2,
    };
+
 function setup(){
     const canvas = createCanvas(640,480);
     canvas.parent('videoContainer');
