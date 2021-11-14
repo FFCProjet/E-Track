@@ -1,35 +1,12 @@
-// Demonstrates the ml5.js PoseNet API:
-// https://learn.ml5js.org/#/reference/posenet
-//
-// Based loosely on the official ml5.js PoseNet example:
-// https://github.com/ml5js/ml5-library/blob/main/examples/p5js/PoseNet/PoseNet_webcam/sketch.js
-//
-// As linked to from:
-// https://ml5js.org/reference/api-PoseNet/
-// 
-// By Jon E. Froehlich
-// http://makeabilitylab.io/
+
 
 let video;
 let poseNet;
 let currentPoses = [];
 let poseNetModelReady = false;
+var canvasScale = 1;
+var canvasScale1 = 1;
 
-// The following options are all optional. Here are the defaults:
-// {
-//   architecture: 'MobileNetV1',
-//   imageScaleFactor: 0.3,
-//   outputStride: 16,
-//   flipHorizontal: false,
-//   minConfidence: 0.5,
-//   maxPoseDetections: 5,
-//   scoreThreshold: 0.5,
-//   nmsRadius: 20,
-//   detectionType: 'multiple',
-//   inputResolution: 513,
-//   multiplier: 0.75,
-//   quantBytes: 2,
-// };
 const poseNetOptions = { detectionType: "single"};
 
 function setup() {
@@ -65,6 +42,18 @@ function onPoseDetected(poses) {
 }
 
 function draw() {
+
+  // canvasScale+=0.01;
+  // canvasScale1+=0.01; //speed you want canvas to increase
+  // //1 is original scale
+  // //2 is two times as big
+  // if (canvasScale > 2){
+  //  canvasScale=1;
+  //  canvasScale1=1; 
+  // }
+  
+  scale(1,);
+  background(220);
   image(video, 0, 0, width, height);
 
   if(!poseNetModelReady){
@@ -77,7 +66,7 @@ function draw() {
     text("Waiting for PoseNet model to load...", width/2, height/2);
     pop();
   }
-
+ 
   // Iterate through all poses and print them out
   if(currentPoses){
     for (let i = 0; i < currentPoses.length; i++) {
