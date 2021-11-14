@@ -12,7 +12,6 @@
   <p align="center">
     Logiciel de gestion de planning
     <br />
-    <a href="https://github.com/FFCProjet/E-Track"><strong>Voir la documentation »</strong></a>
     <br />
     <br />
     <a href="https://github.com/FFCProjet/E-Track">Demo</a>
