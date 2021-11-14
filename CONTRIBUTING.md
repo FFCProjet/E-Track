@@ -18,4 +18,4 @@ Lorsque vous contribuez, veuillez également publier des commentaires et discute
 
 N'hésitez pas à proposer des modifications en créant des [demandes de tirage (Pull Requests)](https://github.com/FFCProjet/E-Track/pulls). Si vous n'avez pas accès au mode de rédaction, la modification d'un fichier créera une copie (Fork) de ce projet afin que vous puissiez enregistrer les modifications que vous proposez. Le fait de proposer une modification à un fichier l'écrira dans une nouvelle branche dans votre copie (Fork), de sorte que vous puissiez envoyer une demande de tirage (Pull Request).
 
-Si c'est la première fois que vous contribuez à GitHub, ne vous en faites pas! [Faites-nous part de vos questions en nous contactant par courriel](mailto:urbainkv@gmail.com,gilosert@gmail.com,axel_0108@hotmail.fr,.ca&subject=OSS%20Directive%20LL).
+Si c'est la première fois que vous contribuez à GitHub, ne vous en faites pas! [Faites-nous part de vos questions en nous contactant par courriel](mailto:urbainkv@gmail.com,gilosert@gmail.com,axel_0108@hotmail.fr).
