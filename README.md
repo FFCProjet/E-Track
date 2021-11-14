@@ -10,7 +10,7 @@
 <h3 align="center">E-Track</h3>
 
   <p align="center">
-    Logiciel de gestion de planning
+    Tracking d'orateur
     <br />
     <br />
     <br />
