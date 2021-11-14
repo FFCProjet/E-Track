@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/FFCProjet/E-Track">
-    <img src="public/images/FullLogo.png" alt="Logo" width="80" height="80">
+    <img src="public/images/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">E-Track</h3>
@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## A propos du projet
 
-Ce projet a été réalisé dans le cadre du Master 2 MIAGE parcours Ingénerie Logiciel (Paris-Saclay) pour le Web afin de répondre aux besoins de la bibliothèque universitaire d'Evry.
+Afin de répondre à un besoin sur le tracking d'un orateur E-track a vue le jour.
 
 ### Stack
 
