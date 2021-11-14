@@ -1,12 +1,5 @@
 <div id="top"># E-Track</div>
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![CC BY-NC-SA License][license-shield]][license-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
