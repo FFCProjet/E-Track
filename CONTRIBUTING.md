@@ -8,7 +8,7 @@ When contributing, post comments and discuss changes you wish to make via [Issue
 
 Feel free to propose changes by creating [Pull Requests](https://github.com/FFCProjet/E-Track/pulls). If you don't have write access, editing a file will create a Fork of this project for you to save your proposed changes to. Submitting a change to a file will write it to a new Branch in your Fork, so you can send a Pull Request.
 
-If this is your first time contributing on GitHub, don't worry! [Let us know via email if you have any questions](mailto:urbainkv@gmail.com,gilosert@gmail.com,axel_0108@hotmail.fr,.ca&subject=OSS%20Directive%20LL).
+If this is your first time contributing on GitHub, don't worry! [Let us know via email if you have any questions](mailto:urbainkv@gmail.com,gilosert@gmail.com,axel_0108@hotmail.fr).
 
 ______________________
 
