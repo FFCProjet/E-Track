@@ -1,5 +1,3 @@
-
-
 let video;
 let poseNet;
 let currentPoses = [];

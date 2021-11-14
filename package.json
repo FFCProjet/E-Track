@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node src/server.js"
+    "start": "node src/server.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,8 @@
   "dependencies": {
     "@tensorflow/tfjs": "^3.9.0",
     "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
     "node": "^16.10.0",
     "nodemon": "^2.0.13",
     "tracking": "^1.1.3"
