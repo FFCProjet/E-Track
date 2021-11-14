@@ -3,7 +3,7 @@ const express = require("express")
 const app = express()
 
 app.get('/', (req, res) => {
-  res.sendFile('render.html',{root:__dirname});
+  res.sendFile('index1.html',{root:__dirname});
 });
 
 app.listen(3001, () => {
