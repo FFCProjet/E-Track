@@ -29,7 +29,7 @@
     <li>
       <a href="#about-the-project">A propos du projet</a>
       <ul>
-        <li><a href="#built-with">Stack</a></li>
+        <li><a href="#built-with">Techno</a></li>
       </ul>
     </li>
     <li>
@@ -52,12 +52,11 @@
 
 Afin de répondre à un besoin sur le tracking d'un orateur E-track a vue le jour.
 
-### Stack
+### Techno
 
 * [Node.js](https://nodejs.org/en/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -100,7 +99,7 @@ _Pour plus de détail, merci de consulter la documentation utilisateur [Document
 <!-- LICENSE -->
 ## Licence
 
-Distrubuée sous la licence [CC BY-NC-SA 4.0 License](http://creativecommons.org/licenses/by/4.0/). Voir `LICENSE.txt`pour plus d'informations.
+Distrubuée sous la licence [MIT License](https://opensource.org/licenses/MIT) Voir `LICENSE.txt`pour plus d'informations.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
