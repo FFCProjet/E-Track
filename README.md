@@ -1,5 +1,3 @@
-<div id="top"># E-Track</div>
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
