@@ -1,10 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/FFCProjet/E-Track">
-    <img src="public/images/Logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">E-Track</h3>
 
   <p align="center">
@@ -27,7 +23,7 @@
   <summary>Table des matières</summary>
   <ol>
     <li>
-      <a href="#about-the-project">A propos du projet</a>
+      <a href="#about-the-project">Notre projet</a>
       <ul>
         <li><a href="#built-with">Techno</a></li>
       </ul>
@@ -48,7 +44,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## A propos du projet
+## Notre Projet
 
 Afin de répondre à un besoin sur le tracking d'un orateur E-track a vue le jour.
 
