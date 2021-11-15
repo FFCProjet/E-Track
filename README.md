@@ -35,7 +35,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Utilisation</a></li>
+    <li><a href="#usage">Cas d'utilisation</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -84,7 +84,7 @@ Pour lancer le projet, il faut disposer de [Node.js](https://nodejs.dev/) et [np
 
 
 <!-- USAGE EXAMPLES -->
-## Utilisation
+## Cas d'utilisation
 
 L'utilisation de E-Track permet de tracker un individu derrière une caméra, cet individu peut être associé à l'orateur
 
