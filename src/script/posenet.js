@@ -4,7 +4,6 @@ let poses = [];
 let xpose;
 let ypose;
 
-
 const options = {
     architecture: 'MobileNetV1',
     imageScaleFactor: 0.3,
