@@ -52,6 +52,7 @@ Afin de répondre à un besoin sur le tracking d'un orateur E-track a vue le jou
 
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com/fr/)
+* [TensorFlow.js](https://www.tensorflow.org/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
